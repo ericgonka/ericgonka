@@ -1,4 +1,4 @@
-# 👨‍💻 Eric González | SMR - ASIR | Red Team - Ethical Hacker
+# 👨‍💻 Eric González | SMR - ASIR | Red Team
 
 🔐 **Red Team Specialist | Ethical Hacker** | **SMR** & **ASIR Graduate**  
 Soy un apasionado de la seguridad informática con un enfoque en ciberseguridad, especializado en la metodología **Red Team** para realizar simulaciones de ataques y ayudar a mejorar la protección de sistemas y redes.
